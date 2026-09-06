@@ -2,10 +2,6 @@
 
 Guides for the Realistic Walking Camera mod for Assetto Corsa.
 
-## Changelog
-
-- [Full changelog](CHANGELOG.md) - every change, newest first
-
 ## Tutorials
 
 - [Custom Camera Motions](tutorials/custom-motions.md) - Create and import your own handheld camera motions
